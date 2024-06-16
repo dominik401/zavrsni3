@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "75681910070",
+    "project_id": "rdma-2c4b9",
+    "storage_bucket": "rdma-2c4b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75681910070:android:bb046f58fdafe160bbb797",
+        "android_client_info": {
+          "package_name": "com.example.zavrsni"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtlt9zzsPNYwxgX3wtzfichZkylrAdZdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
